@@ -58,11 +58,6 @@ function generatePassword() {
   alert("Your Password is " + generatedPassword)
   
   
- 
-  // for (i=0; i<passwordLength.length; i++) {
-  //   char = Math.floor(Math.random()*characters.characterArray.length);
-  //   generatedPassword += characters.characterArray[char];
-  // }
   return generatedPassword;
 }
 
